@@ -1,0 +1,16 @@
+[
+  {
+    "studentId": "610d1f99f02a7e1a0c4a1234",
+    "attendanceMarks": 10,
+    "projectReviewMarks": 20,
+    "assessmentMarks": 30,
+    "projectSubmissionMarks": 40
+  },
+  {
+    "studentId": "610d1f99f02a7e1a0c4a5678",
+    "attendanceMarks": 12,
+    "projectReviewMarks": 25,
+    "assessmentMarks": 35,
+    "projectSubmissionMarks": 45
+  }
+]

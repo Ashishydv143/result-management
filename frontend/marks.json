@@ -1,0 +1,47 @@
+[
+  {
+    "uniqueId": "S001",
+    "name": "Alice Smith",
+    "marks": {
+      "Math": 85,
+      "Science": 90,
+      "English": 88
+    }
+  },
+  {
+    "uniqueId": "S002",
+    "name": "Bob Johnson",
+    "marks": {
+      "Math": 78,
+      "Science": 82,
+      "English": 75
+    }
+  },
+  {
+    "uniqueId": "S003",
+    "name": "Charlie Brown",
+    "marks": {
+      "Math": 92,
+      "Science": 95,
+      "English": 89
+    }
+  },
+  {
+    "uniqueId": "S004",
+    "name": "Diana Prince",
+    "marks": {
+      "Math": 80,
+      "Science": 78,
+      "English": 85
+    }
+  },
+  {
+    "uniqueId": "S005",
+    "name": "Ethan Hunt",
+    "marks": {
+      "Math": 88,
+      "Science": 92,
+      "English": 91
+    }
+  }
+]
